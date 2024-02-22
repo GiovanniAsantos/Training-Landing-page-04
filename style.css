@@ -1,0 +1,260 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    background-image: url(https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?cs=srgb&dl=pexels-lukas-616401.jpg&fm=jpg);
+    position: absolute;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+}
+
+button{
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: white;
+}
+img{
+    width: 10px;
+    height: 10px;
+}
+
+.tabela{
+    margin-left: 950px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 11px;
+}
+
+select{
+    background-color: transparent;
+    text-decoration: none;
+    color:black;
+    border: none;
+    font-size: 11px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+table{
+    border-spacing: 12px;
+}
+
+button:hover{
+    background-color: gray;
+}
+
+a:hover{
+    color: gray;
+}
+
+select:hover{
+    color: gray;
+}
+
+.contato{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    width: 250px;
+    height: 40px;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+
+.body{
+    margin-top: 50vh;
+    position: absolute;
+}
+
+.divb1{
+    position: absolute;
+    margin-top: 40px;
+    width: 350px;
+    height: 100px;
+    align-items: center;
+    margin-left: 500px;
+   
+}
+
+.hr1{
+    background-color: green;
+    width: 50px;
+    height: 3px;
+    margin-left: 150px;
+    border: none;
+}
+
+.hr2{
+    background-color: red;
+    width: 70px;
+    height: 3px;
+    margin-left: 140px;
+    margin-top: 5px;
+    border: none;
+}
+
+.title2{
+    margin-left: 105px;
+    font-size: 30px;
+}
+
+.divb2{
+    width: 350px;
+    height: 300px;
+    background-color: rgb(27, 223, 27);
+    color: white;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.imggreebox{
+    width: 15px;
+    height: 15px;
+    background-color: transparent;
+    
+}
+
+h3{
+    font-size: 15px;
+}
+
+p{
+    font-size: 10px;
+}
+
+.tel{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.mail{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.loc{
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 30px;
+}
+
+.apps{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 30px;
+}
+
+.divb3{
+    margin-top: 150px;
+    margin-left: 600px;
+    width: 500px;
+}
+
+input{
+    border: 0.8px;
+    border-radius: 5px;
+    height: 30px;
+    width: 490px;
+}
+
+.input1{
+    border: 0.8px;
+    width: 240px;
+}
+
+.input2{
+    width: 240px;
+    border: 0.8px;
+}
+
+.divform5{
+    position: absolute;
+    width: 70px;
+}
+
+.bform{
+    background-color: rgb(22, 230, 22);
+    color:white;
+    width: 150px;
+    height: 40px;
+}
+
+.mapa{
+    width: 800px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: -340px;
+   
+}
+
+.map-container{
+    overflow:hidden;
+    
+    position:relative;
+    
+  }
+.map-container iframe{
+    left:0;
+    top:0;
+    width: 800px;
+    height: 300px;
+    position:absolute;
+  }
+
+
+
+.declaraçao{
+    background-color: rgb(12, 11, 11);
+    margin-top: 3px;
+    width: 98.7vw;
+    height: 33vh;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: inherit;
+    position: absolute;
+}
+
+.autor{
+    margin-top: 170px;
+    font-size: 15px;
+    position: absolute;
+    margin-left: 1170px;
+}
+
+.data{
+    margin-top: 190px;
+    margin-left: 1170px;
+    position: absolute;
+}
+
+.hr3{
+    opacity: 0.4;
+    width: 1300px;
+    margin-left: 20px;
+    margin-top: 155px;
+    position: absolute;
+}
